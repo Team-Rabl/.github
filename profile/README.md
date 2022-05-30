@@ -5,7 +5,6 @@ Currently planned features:
 - Direct Messaging
 - Group Messaging
 
-Current technologies used and or in consideration for use
 
 # Backend
 * PostgreSQL: Currently in use for auth server. Currently planning to use for application server. Exploring a NoSQL database may be worth the effort in the future.
