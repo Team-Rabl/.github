@@ -13,5 +13,4 @@ Tailwind: Maybe? As a better alternative to Bootstrap? (If we need it? Hand made
 * Flutter (Dart): Planned to be used for mobile application development.
 
 # Backend
-* PostgreSQL: Currently in use for auth server. Currently planning to use for application server. Exploring a NoSQL database may be worth the effort in the future.
 * Actix (Rust): Currently in use for auth server. Webserver framework. Currently planning to use for application server as well.
