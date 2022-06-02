@@ -6,7 +6,8 @@ Currently planned features:
 - Group Messaging
 
 # Frontend
-* React: Has been discussed, and seems to be the current planned implementation for Desktop application via Electron, likely web version as well if a web version is desired to be released. Dioxus is a "React like" Rust frontend framework that would give lower level control, allowing for more targeted desktop development. Seems like potentially a good option, but needs research.
+* React: In development, using NextJS. Final implementation framework to be decided.
+* Dioxus: In development. Final implementation framework to be decided.
 * NextJS: Being investigated for use in desktop app development.
 * SCSS: Has been mentioned as being familiar to some of us, simple to learn/use.
 Tailwind: Maybe? As a better alternative to Bootstrap? (If we need it? Hand made SCSS may be enough?)
