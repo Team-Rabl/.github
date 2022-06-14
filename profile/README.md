@@ -18,3 +18,6 @@ Tailwind: Maybe? As a better alternative to Bootstrap? (If we need it? Hand made
 
 # Backend
 * Actix (Rust): Currently in use for auth server, application/chat server.
+* PostgreSQL: In use
+* Redis: In use
+* Etc: HAProxy, Jenkins
