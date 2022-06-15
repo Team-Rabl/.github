@@ -11,9 +11,7 @@ Currently planned features:
 
 # Frontend
 * React: In development, using NextJS. Final implementation framework to be decided.
-* Dioxus: In development. Final implementation framework to be decided.
-* SCSS: Has been mentioned as being familiar to some of us, simple to learn/use.
-Tailwind: Maybe? As a better alternative to Bootstrap? (If we need it? Hand made SCSS may be enough?)
+* Iced: In development. Final implementation to be decided.
 * Flutter (Dart): In development, to be used for mobile application.
 
 # Backend
